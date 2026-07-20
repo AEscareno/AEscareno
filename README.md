@@ -4,7 +4,7 @@
 
 **Fullstack Software Developer** · Aguascalientes, México
 
-Construyo sistemas web, móviles y backend — actualmente enfocado en soluciones de gestión operativa para el sector de servicios de agua, y desarrollo freelance por mi cuenta.
+Construyo sistemas web, móviles y backend — actualmente enfocado en soluciones de gestión operativa y desarrollo freelance por mi cuenta.
 
 <br>
 
@@ -14,9 +14,8 @@ Construyo sistemas web, móviles y backend — actualmente enfocado en solucione
 
 <br>
 
-- Desarrollo fullstack en el sector de servicios de agua (dashboards ejecutivos, gestión de rutas y datos operativos)
+- Desarrollo fullstack
 - Ingeniería en Sistemas — Universidad Autónoma de Aguascalientes
-- Co-fundando una empresa de desarrollo de software
 - Uso Fedora + KDE como entorno de trabajo diario
 - Disponible para proyectos freelance
 
