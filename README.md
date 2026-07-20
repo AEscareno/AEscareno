@@ -4,17 +4,15 @@
 
 **Fullstack Software Developer** · Aguascalientes, México
 
-Construyo sistemas web, móviles y backend — actualmente enfocado en soluciones para gestión de servicios de agua en **MIAA**, y desarrollo freelance por mi cuenta.
-
+Construyo sistemas web, móviles y backend
 </div>
 
 ---
 
 ### <img src="https://img.shields.io/badge/-About-lightgrey?style=flat&logo=aboutdotme&logoColor=white" height="20"/> Sobre mí
 
-- Desarrollo aplicaciones fullstack para gestión operativa de un organismo de agua (lecturas, rutas, dashboards ejecutivos)
+- Desarrollo aplicaciones fullstack para gestión operativa de un organismo
 - Ingeniería en Sistemas — Universidad Autónoma de Aguascalientes
-- Co-fundando una empresa de desarrollo de software
 - Uso Fedora + KDE como entorno de trabajo diario
 - Disponible para proyectos freelance
 
