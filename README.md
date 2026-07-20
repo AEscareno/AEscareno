@@ -43,8 +43,8 @@ Construyo sistemas web, móviles y backend para sistemas de gestión operativa, 
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AEscareno&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEscareno&layout=pie&theme=tokyonight&hide_border=true&count_private=false" height="180"/>
+<img src="https://github-readme-stats-chi-ten-70.vercel.app/api?username=AEscareno&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="180"/>
+<img src="https://github-readme-stats-chi-ten-70.vercel.app/api/top-langs/?username=AEscareno&layout=pie&theme=tokyonight&hide_border=true&count_private=false" height="180"/>
 
 </div>
 
