@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Software+Developer;React+%2B+Spring+Boot+%2B+Kotlin+%2B+Flutter;Aguascalientes%2C+M%C3%A9xico" alt="Typing SVG" />
 
-Construyo sistemas web, móviles y backend — actualmente enfocado en soluciones de gestión operativa para el sector de servicios de agua, y desarrollo freelance por mi cuenta.
+Construyo sistemas web, móviles y backend para sistemas de gestión operativa y desarrollo freelance por mi cuenta.
 
 <img src="https://komarev.com/ghpvc/?username=AEscareno&label=Visitas+al+perfil&color=58A6FF&style=for-the-badge" />
 
@@ -16,7 +16,7 @@ Construyo sistemas web, móviles y backend — actualmente enfocado en solucione
 
 <br>
 
-- Desarrollo fullstack en el sector de servicios de agua (dashboards ejecutivos, gestión de rutas y datos operativos)
+- Desarrollo fullstack de sistemas de gestión operativa (dashboards ejecutivos, optimización de rutas y análisis de datos)
 - Ingeniería en Sistemas — Universidad Autónoma de Aguascalientes
 - Co-fundando una empresa de desarrollo de software
 - Uso Fedora + KDE como entorno de trabajo diario
@@ -30,21 +30,7 @@ Construyo sistemas web, móviles y backend — actualmente enfocado en solucione
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=react,ts,vite,java,spring,kotlin,flutter,mysql,sqlite,aws,docker,fedora&theme=dark" />
-
-</div>
-
-<br>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Trophies-2b2b2b?style=for-the-badge&logo=trophy&logoColor=white" height="26"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AEscareno&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://skillicons.dev/icons?i=react,ts,vite,java,spring,kotlin,flutter,python,go,rust,mysql,postgres,sqlite,mongodb,aws,docker,linux,fedora&theme=dark" />
 
 </div>
 
@@ -56,7 +42,6 @@ Construyo sistemas web, móviles y backend — actualmente enfocado en solucione
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AEscareno&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=AEscareno&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
@@ -70,7 +55,7 @@ Construyo sistemas web, móviles y backend — actualmente enfocado en solucione
 <br><br>
 
 <!--START_METRICS-->
-<img src="https://raw.githubusercontent.com/AEscareno/AEscareno/main/github-metrics.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/AEscareno/AEscareno/main/github-metrics.svg" width="800"/>
 <!--END_METRICS-->
 
 </div>
