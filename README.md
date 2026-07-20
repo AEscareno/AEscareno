@@ -2,9 +2,11 @@
 
 # Armando Escareño
 
-**Fullstack Software Developer** · Aguascalientes, México
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Software+Developer;React+%2B+Spring+Boot+%2B+Kotlin+%2B+Flutter;Aguascalientes%2C+M%C3%A9xico" alt="Typing SVG" />
 
-Construyo sistemas web, móviles y backend — actualmente enfocado en soluciones de gestión operativa y desarrollo freelance por mi cuenta.
+Construyo sistemas web, móviles y backend — actualmente enfocado en soluciones de gestión operativa para el sector de servicios de agua, y desarrollo freelance por mi cuenta.
+
+<img src="https://komarev.com/ghpvc/?username=AEscareno&label=Visitas+al+perfil&color=58A6FF&style=for-the-badge" />
 
 <br>
 
@@ -14,8 +16,9 @@ Construyo sistemas web, móviles y backend — actualmente enfocado en solucione
 
 <br>
 
-- Desarrollo fullstack
+- Desarrollo fullstack en el sector de servicios de agua (dashboards ejecutivos, gestión de rutas y datos operativos)
 - Ingeniería en Sistemas — Universidad Autónoma de Aguascalientes
+- Co-fundando una empresa de desarrollo de software
 - Uso Fedora + KDE como entorno de trabajo diario
 - Disponible para proyectos freelance
 
@@ -27,41 +30,34 @@ Construyo sistemas web, móviles y backend — actualmente enfocado en solucione
 
 <br><br>
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=react,ts,vite,java,spring,kotlin,flutter,mysql,sqlite,aws,docker,fedora&theme=dark" />
+
+</div>
+
 <br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Trophies-2b2b2b?style=for-the-badge&logo=trophy&logoColor=white" height="26"/>
 
 <br><br>
 
-**Backend**
+<img src="https://github-profile-trophy.vercel.app/?username=AEscareno&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
 <br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Dashboard-2b2b2b?style=for-the-badge&logo=googleanalytics&logoColor=white" height="26"/>
 
 <br><br>
 
-**Mobile**
-<br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-
-<br><br>
-
-**Datos**
-<br>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-<br><br>
-
-**Cloud / Infra**
-<br>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AEscareno&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=AEscareno&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
