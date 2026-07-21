@@ -20,7 +20,6 @@
 Construyo sistemas web, móviles y backend para sistemas de gestión operativa, además de desarrollo freelance por mi cuenta.
 
 - Ingeniería en Sistemas — Universidad Autónoma de Aguascalientes
-- Co-fundando una empresa de desarrollo de software
 - Uso Fedora + KDE como entorno de trabajo diario
 - Disponible para proyectos freelance
 
