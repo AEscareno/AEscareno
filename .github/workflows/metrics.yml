@@ -18,7 +18,7 @@ jobs:
         with:
           # Token con permisos: repo (read), user (read)
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.svg
+          filename: github-metrics.svg
 
           # ---------- Configuración general ----------
           config_timezone: America/Mexico_City
