@@ -1,39 +1,76 @@
-name: GitHub Metrics
+name: metrics
+
 on:
   schedule:
-    - cron: "0 6 * * *"   # se regenera todos los días a las 06:00 UTC
-  workflow_dispatch:        # permite ejecutarlo manualmente desde la pestaña Actions
+    # Se ejecuta cada 6 horas — ajusta el cron a tu gusto
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {}
+  push:
+    branches: [main]
 
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
+          # Token con permisos: repo (read), user (read)
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.svg
 
-          # --- Privacidad: solo información pública ---
-          # Con un token que SOLO tiene los scopes "public_repo" y "read:user",
-          # esta acción físicamente no puede leer tus repos privados.
-          repositories_affiliations: owner
-          repositories_forks: false
+          # ---------- Configuración general ----------
+          config_timezone: America/Mexico_City
+          config_display: large
+          config_output: svg
 
-          # --- Plugins ---
+          # ---------- Base (repos, stars, followers, etc.) ----------
+          plugin_base: yes
+          plugin_base_hireable: yes
+
+          # ---------- Calendario de contribuciones ----------
+          plugin_calendar: yes
+          plugin_calendar_limit_bounds: yes
+
+          # ---------- Hábitos de código y actividad reciente ----------
+          plugin_habits: yes
+          plugin_habits_charts_type: bars
+          plugin_habits_facts: yes
+          plugin_habits_days: 14
+          plugin_habits_from: 200
+
+          # ---------- Actividad reciente (commits por día/hora) ----------
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_limit: 5
+          plugin_activity_visibility: all
+
+          # ---------- Idiomas más usados ----------
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_threshold: '0%'
 
-          plugin_activity: no
+          # ---------- Tecnologías / topics dominados ----------
+          plugin_stars: yes
+          plugin_stars_limit: 0
 
-          plugin_habits: no
+          # ---------- Proyectos (issues de roadmap) ----------
+          plugin_projects: yes
 
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          # ---------- PageSpeed Insights ----------
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_url: https://tu-sitio.com  # Cambia por tu URL
 
-          plugin_followup: yes
-          plugin_followup_sections: user
-          plugin_followup_indepth: no
+          # ---------- Música sugerida (requiere cuenta de Spotify last.fm, opcional) ----------
+          plugin_music: yes
+          plugin_music_provider: apple
+          plugin_music_playlist: ""
+          plugin_music_limit: 4
+          plugin_music_mode: playlist
