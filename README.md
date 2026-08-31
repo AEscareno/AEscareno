@@ -82,3 +82,17 @@ Construyo sistemas web, móviles y backend para sistemas de gestión operativa, 
 </a>
 
 </div>
+<br>
+
+<div align="center">
+
+### <img src="https://img.shields.io/badge/Contributions-2b2b2b?style=for-the-badge&logo=github&logoColor=white" height="24"/>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AEscareno/AEscareno/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AEscareno/AEscareno/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/AEscareno/AEscareno/output/github-snake.svg" />
+</picture>
+
+</div>
